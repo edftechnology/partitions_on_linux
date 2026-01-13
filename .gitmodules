@@ -1,0 +1,3 @@
+[submodule "subs/submodules/python_scripts"]
+	path = subs/submodules/python_scripts
+	url = git@github.com:edftechnology/python_scripts.git
